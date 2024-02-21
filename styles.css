@@ -1,0 +1,67 @@
+.navbar img {
+  width:50px;
+  margin-top:20px;
+}
+
+.navbar li {
+  margin-left:15px;
+  font-size:12px;
+}
+
+.navbar i {
+  margin-right:5px;
+  font-size:25px;
+}
+
+
+#subnav li {
+  text-align:center;
+  font-weight:bold;
+  margin:7px 12px;
+  font-size:16px;
+}
+#subsubnav li {
+  margin: 7px 20px;
+}
+
+#firstImg {
+  background-image: url("https://www2.hm.com/content/dam/regional-local-activities/seu/master-mcf/2023-season-8/cross-concept/denim/Banner_denimforeveryone_3x1_2.png");
+  padding-top: 10px;
+  width:800px;
+}
+
+#firstImg h2, #firstImg p{
+  text-align:center;
+  color:white;
+  font-weight:bolder;
+}
+
+.content-box {
+  width:80%;
+  display:flex;
+  justify-content: center;
+}
+
+#secondImg {
+  background-image: url("https://image.hm.com/content/dam/global_campaigns/season_09/ladies/1509y/1509Y-1x1-1-just-arrived-vintage-inspired-style.jpg?imwidth=256%20256w,%20https://image.hm.com/content/dam/global_campaigns/season_09/ladies/1509y/1509Y-1x1-1-just-arrived-vintage-inspired-style.jpg?imwidth=264%20264w,%20https://image.hm.com/content/dam/global_campaigns/season_09/ladies/1509y/1509Y-1x1-1-just-arrived-vintage-inspired-style.jpg?imwidth=384%20384w,%20https://image.hm.com/content/dam/global_campaigns/season_09/ladies/1509y/1509Y-1x1-1-just-arrived-vintage-inspired-style.jpg?imwidth=396%20396w,%20https://image.hm.com/content/dam/global_campaigns/season_09/ladies/1509y/1509Y-1x1-1-just-arrived-vintage-inspired-style.jpg?imwidth=564%20564w,%20https://image.hm.com/content/dam/global_campaigns/season_09/ladies/1509y/1509Y-1x1-1-just-arrived-vintage-inspired-style.jpg?imwidth=657%20657w,%20https://image.hm.com/content/dam/global_campaigns/season_09/ladies/1509y/1509Y-1x1-1-just-arrived-vintage-inspired-style.jpg?imwidth=768%20768w,%20https://image.hm.com/content/dam/global_campaigns/season_09/ladies/1509y/1509Y-1x1-1-just-arrived-vintage-inspired-style.jpg?imwidth=820%20820w,%20https://image.hm.com/content/dam/global_campaigns/season_09/ladies/1509y/1509Y-1x1-1-just-arrived-vintage-inspired-style.jpg?imwidth=1260%201260w,%20https://image.hm.com/content/dam/global_campaigns/season_09/ladies/1509y/1509Y-1x1-1-just-arrived-vintage-inspired-style.jpg?imwidth=1536%201536w");
+  width:800px;
+  height:500px;
+  background-position:top;
+  background-size:800px;
+  margin-top:20px;
+}
+
+#secondImg h1, #secondImg p {
+  color:white;
+  text-align:center;
+}
+#secondImg h1 {
+  font-weight:bold;
+}
+#secondImg .container {
+  position:absolute;
+  bottom:0;
+  left:0;
+  right:0;
+  padding-bottom:50px;
+}
